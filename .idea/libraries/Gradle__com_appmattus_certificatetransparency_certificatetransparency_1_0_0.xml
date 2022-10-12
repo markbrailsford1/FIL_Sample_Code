@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.appmattus.certificatetransparency:certificatetransparency:1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.appmattus.certificatetransparency/certificatetransparency/1.0.0/98f88aa96404190128bbce6932052d9c5cc92b74/certificatetransparency-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.appmattus.certificatetransparency/certificatetransparency/1.0.0/7eefe1c5587aa86443dceb9d71ad530bcdbc18b5/certificatetransparency-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.appmattus.certificatetransparency/certificatetransparency/1.0.0/6f6628fffe3317a175eccee70de561a7047e53fd/certificatetransparency-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

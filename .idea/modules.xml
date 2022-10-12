@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sample_Code.iml" filepath="$PROJECT_DIR$/.idea/modules/Sample_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PingAuthenticationCore/Sample_Code.PingAuthenticationCore.iml" filepath="$PROJECT_DIR$/.idea/modules/PingAuthenticationCore/Sample_Code.PingAuthenticationCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PingAuthenticationCore/Sample_Code.PingAuthenticationCore.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/PingAuthenticationCore/Sample_Code.PingAuthenticationCore.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PingAuthenticationCore/Sample_Code.PingAuthenticationCore.main.iml" filepath="$PROJECT_DIR$/.idea/modules/PingAuthenticationCore/Sample_Code.PingAuthenticationCore.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PingAuthenticationCore/Sample_Code.PingAuthenticationCore.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/PingAuthenticationCore/Sample_Code.PingAuthenticationCore.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PingAuthenticationUI/Sample_Code.PingAuthenticationUI.iml" filepath="$PROJECT_DIR$/.idea/modules/PingAuthenticationUI/Sample_Code.PingAuthenticationUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PingAuthenticationUI/Sample_Code.PingAuthenticationUI.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/PingAuthenticationUI/Sample_Code.PingAuthenticationUI.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PingAuthenticationUI/Sample_Code.PingAuthenticationUI.main.iml" filepath="$PROJECT_DIR$/.idea/modules/PingAuthenticationUI/Sample_Code.PingAuthenticationUI.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PingAuthenticationUI/Sample_Code.PingAuthenticationUI.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/PingAuthenticationUI/Sample_Code.PingAuthenticationUI.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/Sample_Code.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/Sample_Code.sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/Sample_Code.sample.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/Sample_Code.sample.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/Sample_Code.sample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/Sample_Code.sample.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/Sample_Code.sample.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/Sample_Code.sample.unitTest.iml" />
+    </modules>
+  </component>
+</project>

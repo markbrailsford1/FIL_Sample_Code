@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./sample/libs/PingOne.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8827235734e162e8d0506ea036cb73e2/transformed/jetified-PingOne/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8827235734e162e8d0506ea036cb73e2/transformed/jetified-PingOne/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8827235734e162e8d0506ea036cb73e2/transformed/jetified-PingOne/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
